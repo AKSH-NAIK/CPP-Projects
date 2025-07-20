@@ -1,7 +1,3 @@
-Sure! I reviewed your **Calculator** project on GitHub, and here's a professional, clean, and informative `README.md` you can use for the repository:
-
----
-
 ````markdown
 # 🧮 Console Calculator in C++
 
