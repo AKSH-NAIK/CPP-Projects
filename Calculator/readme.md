@@ -78,11 +78,11 @@ This calculator was created as part of my journey learning **C++** and exploring
 
 ---
 
-```
+
 
 <p align="center">
   Made with 💻 and C++ by Aksh Naik
 </p>
-```
+
 
 ---
