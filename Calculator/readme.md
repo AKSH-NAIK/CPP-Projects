@@ -1,4 +1,4 @@
-````markdown
+Markdown
 # 🧮 Console Calculator in C++
 
 A simple and interactive calculator built using **C++**. This project demonstrates basic arithmetic operations in a user-friendly console interface. Ideal for beginners looking to understand C++ control structures, functions, and input/output handling.
@@ -30,25 +30,25 @@ A simple and interactive calculator built using **C++**. This project demonstrat
 
 Make sure you have a C++ compiler installed. You can check by running:
 
-```bash
+bash
 g++ --version
-````
+
 
 ### 📥 Clone the Repository
 
-```bash
+bash
 git clone https://github.com/AKSH-NAIK/CPP-Projects.git
 cd CPP-Projects/Calculator
-```
+
 
 ### 🧪 Compile and Run
 
 Using `g++`:
 
-```bash
+bash
 g++ calculator.cpp -o calculator
 ./calculator
-```
+
 
 ---
 
@@ -78,7 +78,7 @@ This calculator was created as part of my journey learning **C++** and exploring
 
 ---
 
-
+```
 
 <p align="center">
   Made with 💻 and C++ by Aksh Naik
