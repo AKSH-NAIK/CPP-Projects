@@ -1,4 +1,4 @@
-Markdown
+
 # 🧮 Console Calculator in C++
 
 A simple and interactive calculator built using **C++**. This project demonstrates basic arithmetic operations in a user-friendly console interface. Ideal for beginners looking to understand C++ control structures, functions, and input/output handling.
